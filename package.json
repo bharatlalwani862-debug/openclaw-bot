@@ -2,7 +2,7 @@
   "name": "openclaw-bot",
   "version": "1.0.0",
   "scripts": {
-    "start": "node create-config.js && openclaw gateway start"
+    "start": "node start.js"
   },
   "dependencies": {
     "openclaw": "latest"
